@@ -1,0 +1,29 @@
+#skills-summary
+{
+    padding: 10px;
+    }
+.job-title
+{
+    font-weight:normal;
+    }
+
+#t-skills
+{
+    font-weight:bold;
+    }
+
+#company-name
+{
+    height: 2px;
+    text-decoration:underline;
+    font-size: large;
+    }
+#job-position
+{
+    height: 30px;
+    }
+
+#heading
+{
+    font-weight:bold;
+    }
